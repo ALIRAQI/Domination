@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="material_deep_teal_200">#ffFF0000</color>
+    <color name="material_deep_teal_500">#ffFF0000</color>
+    <color name="accent_material_dark">#ffFF0000</color>
+    <color name="accent_material_light">#ffFF0000</color>
+</resources>
